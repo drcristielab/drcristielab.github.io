@@ -2,7 +2,7 @@
 title: "Look Who's Talking: Teaching and Discourse Practices across Discipline, Position, Experience, and Class Size in STEM College Classrooms"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1093/biosci/biab077
+permalink: /publication/biab077/
 excerpt: 'We investigated teaching and discourse practices across STEM disciplines, instructor types, teaching experience, and class sizes at a Minority-Serving Institution using classroom observation protocols. Although many instructors used active learning strategies, we found that authoritative discourse styles dominated, highlighting the importance of targeted professional development to foster more student-centered engagement in STEM classrooms.'
 date: 2021-08-04
 venue: 'BioScience'
